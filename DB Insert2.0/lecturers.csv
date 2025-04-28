@@ -1,0 +1,201 @@
+LecturerID,LecturerName,Department
+L0001,Tony Page,Economics
+L0002,Vincent Li,Statistics
+L0003,Ashley Miller,Statistics
+L0004,Terrance Stevenson,Physics
+L0005,Bonnie Webb,Computer Science
+L0006,Amanda Mcintosh,Physics
+L0007,Dawn Craig,Economics
+L0008,Brian Atkinson,Computer Science
+L0009,Nicholas Smith,Psychology
+L0010,James Johnson,Law
+L0011,Sandra Russell,Gender Studies
+L0012,Karen Yang,Chemistry
+L0013,Kevin Mercado,Law
+L0014,Linda Mccormick,Chemistry
+L0015,Marissa Campbell,Physics
+L0016,James Perez,Psychology
+L0017,Debra Willis,Physics
+L0018,Jason Williams,Chemistry
+L0019,Chase Park,Statistics
+L0020,John Matthews,Chemistry
+L0021,Timothy Brewer,Economics
+L0022,Gabriela Williams,Physics
+L0023,Jessica Chavez,Mathematics
+L0024,Tina Sutton,Psychology
+L0025,Karen Trujillo,Psychology
+L0026,Don Sherman,Psychology
+L0027,Robert Butler,Psychology
+L0028,Curtis Tucker,Gender Studies
+L0029,Anna Stevens,Gender Studies
+L0030,Gabriel Waters,Law
+L0031,Russell Berg,Economics
+L0032,Shaun Guzman,Gender Studies
+L0033,Ryan Hayes,Economics
+L0034,Michael Hernandez,Biology
+L0035,Andrew Frank,Biology
+L0036,James Walls,Economics
+L0037,Phillip Contreras,Chemistry
+L0038,Carol Walker,Psychology
+L0039,Sabrina Compton,Economics
+L0040,Amy Rodriguez,Mathematics
+L0041,Elizabeth Owens,Chemistry
+L0042,Scott Romero,Physics
+L0043,Elizabeth Davis,Computer Science
+L0044,William Cardenas,Physics
+L0045,Linda Villegas,Psychology
+L0046,Sheena Pierce,Law
+L0047,Kimberly Preston,Chemistry
+L0048,Joseph Thompson,Chemistry
+L0049,Carolyn Anderson,Physics
+L0050,Brenda Jordan,Gender Studies
+L0051,Michael Harrison,Chemistry
+L0052,Christopher Scott,Law
+L0053,Douglas Parker,Physics
+L0054,John Todd,Mathematics
+L0055,Keith Anderson,Statistics
+L0056,Alexis Gamble,Psychology
+L0057,Darrell Lee,Gender Studies
+L0058,Anthony Nichols,Physics
+L0059,James Richards,Gender Studies
+L0060,Danielle Stevens,Economics
+L0061,Randy Rosario,Chemistry
+L0062,Edward Robinson,Psychology
+L0063,James Christensen,Law
+L0064,Michelle Romero,Mathematics
+L0065,Eric Huynh,Biology
+L0066,Mandy Ball,Mathematics
+L0067,Paul Noble,Economics
+L0068,Joseph Gardner,Mathematics
+L0069,Daniel Brown,Mathematics
+L0070,Steven Evans,Biology
+L0071,Lucas Alexander,Gender Studies
+L0072,Mary Franklin,Psychology
+L0073,Andrew Brown,Law
+L0074,Isaac Miller,Physics
+L0075,Edward Peterson,Psychology
+L0076,Jason Garcia,Mathematics
+L0077,Thomas Butler,Biology
+L0078,Joseph Wright,Computer Science
+L0079,Emily Mitchell,Mathematics
+L0080,Devin Cain,Computer Science
+L0081,Nathan Armstrong,Biology
+L0082,Kelly Gutierrez,Law
+L0083,Claire Davis,Physics
+L0084,Brittany Garcia,Statistics
+L0085,Kelly Martinez,Psychology
+L0086,Victor Kirby,Gender Studies
+L0087,Monica Jefferson,Statistics
+L0088,Robert Williams,Computer Science
+L0089,Ryan Campbell,Economics
+L0090,Kimberly Beck,Computer Science
+L0091,Ashley Sullivan,Mathematics
+L0092,Louis Sanchez,Psychology
+L0093,Patrick Myers,Psychology
+L0094,Ashley Freeman,Statistics
+L0095,Kenneth Lamb,Psychology
+L0096,Rebecca Howard,Psychology
+L0097,Robert Palmer,Economics
+L0098,Brian Guzman,Mathematics
+L0099,Kaitlyn Perez,Statistics
+L0100,Lawrence Richards,Computer Science
+L0101,Dakota Rogers,Computer Science
+L0102,Sara Robinson,Economics
+L0103,Julian Snyder,Chemistry
+L0104,Julie Freeman,Biology
+L0105,Chad Caldwell,Law
+L0106,Matthew Williams,Computer Science
+L0107,Elizabeth Black,Mathematics
+L0108,Vanessa Carter,Economics
+L0109,Lauren Black,Psychology
+L0110,Betty Hickman,Economics
+L0111,John Christensen,Biology
+L0112,Eric Bennett,Gender Studies
+L0113,Kenneth Mills,Computer Science
+L0114,Kristen Morris,Psychology
+L0115,Jessica Woods,Gender Studies
+L0116,Daniel Stephens,Biology
+L0117,Jennifer Lee,Computer Science
+L0118,Amber Brooks,Biology
+L0119,Elizabeth Richardson,Mathematics
+L0120,Julie Schmidt,Psychology
+L0121,Anna Pitts,Law
+L0122,Amanda Powers,Statistics
+L0123,Seth Mason,Computer Science
+L0124,Mark Brown,Economics
+L0125,Eugene Rodriguez,Statistics
+L0126,Becky Smith,Statistics
+L0127,Angela Ferguson,Gender Studies
+L0128,Jesse Dixon,Mathematics
+L0129,Anthony Carroll,Statistics
+L0130,Jodi Gonzalez,Psychology
+L0131,Tami Nelson,Computer Science
+L0132,Sheila Ross,Biology
+L0133,Ashley Lee,Computer Science
+L0134,Jesse Jones,Statistics
+L0135,Veronica Mason,Law
+L0136,Robert Nelson,Mathematics
+L0137,Dana Pace,Biology
+L0138,Aaron Bell,Chemistry
+L0139,Emily Nguyen,Biology
+L0140,Stephanie Price,Physics
+L0141,Todd Smith,Chemistry
+L0142,Clifford Kaiser,Psychology
+L0143,Tom Reid,Physics
+L0144,Jonathan Cunningham,Biology
+L0145,Patricia Graham,Psychology
+L0146,Eugene Tran,Statistics
+L0147,Charles Rodriguez,Law
+L0148,Robin Miller,Economics
+L0149,Frank Rose,Economics
+L0150,Amanda Bell,Computer Science
+L0151,Donald Sanchez,Law
+L0152,Jose Townsend,Statistics
+L0153,Megan Hatfield,Law
+L0154,Megan Thomas,Chemistry
+L0155,Wanda Noble,Law
+L0156,Richard Johnson,Law
+L0157,Mark Williams,Physics
+L0158,Allen Perry,Psychology
+L0159,Samantha Green,Statistics
+L0160,Kathleen Contreras,Psychology
+L0161,Tracy Reed,Psychology
+L0162,Tamara Thomas,Gender Studies
+L0163,Andrew Robinson,Mathematics
+L0164,Amy Smith,Economics
+L0165,Heather Fleming,Economics
+L0166,Calvin Monroe,Economics
+L0167,Jennifer Jones,Biology
+L0168,Allison Sherman,Computer Science
+L0169,Cory Nixon,Law
+L0170,Shannon Gomez,Physics
+L0171,Janet Watson,Chemistry
+L0172,Crystal Morrison,Statistics
+L0173,Mary Harding,Law
+L0174,Michelle Robertson,Economics
+L0175,Walter Pearson,Law
+L0176,Ashley Santos,Psychology
+L0177,Yvette Jensen,Gender Studies
+L0178,Katherine Fisher,Statistics
+L0179,Colleen Hernandez,Economics
+L0180,Linda Spencer,Law
+L0181,James Michael,Law
+L0182,Raymond Cook,Gender Studies
+L0183,Peter Clay,Law
+L0184,Randall Taylor,Mathematics
+L0185,Jeffrey Wood,Computer Science
+L0186,Derek Bryant,Chemistry
+L0187,James Reese,Computer Science
+L0188,Matthew Grimes,Physics
+L0189,Gabriel Rios,Biology
+L0190,Maria Goodman,Psychology
+L0191,Kevin Miller,Economics
+L0192,Timothy Brown,Statistics
+L0193,Dave Long,Psychology
+L0194,Martin Lopez,Law
+L0195,Carmen Lewis,Biology
+L0196,Timothy Bryant,Psychology
+L0197,Hannah Garcia,Physics
+L0198,Melanie Meyer,Psychology
+L0199,Stephanie Hamilton,Computer Science
+L0200,Angela Buck,Mathematics
